@@ -15,28 +15,28 @@ export function SocialMediaDock() {
       icon: (
         <IconMail className="h-full w-full text-neutral-500 dark:text-neutral-300" />
       ),
-      href: "mailto:alex@senior-eng.com",
+      href: "mailto:chetriprem.work@gmail.com",
     },
     {
       title: "LinkedIn",
       icon: (
         <IconBrandLinkedin className="h-full w-full text-neutral-500 dark:text-neutral-300" />
       ),
-      href: "https://linkedin.com/in/alex-johnson-senior",
+      href: "https://linkedin.com/renaochetru",
     },
     {
       title: "GitHub",
       icon: (
         <IconBrandGithub className="h-full w-full text-neutral-500 dark:text-neutral-300" />
       ),
-      href: "https://github.com/alex-johnson-dev",
+      href: "https://github.com/renaoch",
     },
     {
       title: "Twitter",
       icon: (
         <IconBrandX className="h-full w-full text-neutral-500 dark:text-neutral-300" />
       ),
-      href: "https://twitter.com/alexjohnsondev",
+      href: "https://twitter.com/re0_ch",
     },
   ];
 

@@ -25,7 +25,7 @@ const Navbar = () => {
           </div>
            
           {/* Name/Brand Section - Keep as is */}
-          <div className="flex-shrink-0">
+          <div className="ml-20 flex-shrink-0">
             <TextRevealCardName />
           </div>
 
